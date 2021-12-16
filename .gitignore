@@ -1,0 +1,9 @@
+
+*.pdb
+src/M_Kopa.Messages/bin/Debug/net5.0/MKopaInterviewExercise.Messages.deps.json
+**/bin/
+**/obj/
+Debug/
+Release/
+bin/
+bin/
